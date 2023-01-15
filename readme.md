@@ -145,4 +145,4 @@ dalle più classiche parentesi graffe, lo si ottiene utilizzando la
 sintassi alternativa che prevede l'utilizzo dei due punti `:` al posto
 dell'apertura della graffa e la parola chiave `endforeach` al posto
 della graffa di chiusura: questa sintassi è considerata più chiara
-quando si ha a che vedere con templare come in questo caso.
+quando si ha a che vedere con template come in questo caso.
