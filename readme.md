@@ -64,7 +64,7 @@ dove il primo parametro è il nome del file che funge da template per questo con
 
 Il template dovrà all'interno "stampare" le variabili che arrivano dal controller in modo che siano visibili all'utente nella forma desiderata. Se si tratta di stampare una sola variabile l'istruzione più semplice è questa
 ```php
-<?php=$variabile?>
+<?=$variabile?>
 ```
 
 Si guardino gli esempi in questo progetto per capirne l'utilizzo. Questo progetto inoltre può essere usato come codice di partenza per i progetti che utilizzeranno Plates come motore di template.
